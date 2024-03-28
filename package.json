@@ -1,0 +1,21 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "web scraping tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "run": "node puppeteer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dini",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^22.6.1"
+  }
+}
