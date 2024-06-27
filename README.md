@@ -9,17 +9,17 @@ Demo project to test web scraping tutorial
 - Install dependencies
 
 ```bash
-$ npm install
+npm install
 ```
 
 ## Running the app
 
 ```bash
-$ npm run start
+npm run start
 ```
 
 ```bash
-$ npm run run
+npm run run
 ```
 
 ## Stay in touch
