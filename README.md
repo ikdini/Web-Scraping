@@ -1,13 +1,12 @@
-<p align="center">
-  Web Scraping Tutorial
-</p>
+# Web Scraping Tutorial
 
 ## Description
 
-  <p align="center">Demo projects to test web scraping tutorial</p>
-    <p align="center">
+Demo project to test web scraping tutorial
 
 ## Installation
+
+- Install dependencies
 
 ```bash
 $ npm install
@@ -17,6 +16,9 @@ $ npm install
 
 ```bash
 $ npm run start
+```
+
+```bash
 $ npm run run
 ```
 
@@ -24,7 +26,7 @@ $ npm run run
 
 - Author - [Oluwande Ifeoluwapo](https://github.com/ikdini)
 
-### Technologies Used
+## Technologies Used
 
 - [NodeJS](https://nodejs.org/) This is a cross-platform runtime environment built on Chrome's V8 JavaScript engine used in running JavaScript codes on the server. It allows for installation and managing of dependencies and communication with databases.
 - [Puppeter](https://pptr.dev/) This is a Node.js library which provides a high-level API to control Chrome/Chromium over the DevTools Protocol.
